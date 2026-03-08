@@ -1,18 +1,24 @@
-Class in Java
+# Java OOP Basics — Class and Object
 
-A class is a blueprint of an object.
+---
 
-class className{
-    //method variables 
+## 1. What is a Class?
 
-    //method functions
+A **class** is a **blueprint or template used to design objects in a program**.
+
+
+### Key Properties
+
+- A **class is a logical entity**
+- A class **does not occupy memory**
+- Memory is allocated **only when objects are created**
+
+
+### Basic Syntax
+
+```java
+class ClassName
+{
+    // variables
+    // methods
 }
-
-
-Important Property
-
-A class is a logical entity
-
-No memory is allocated for a class itself
-
-Memory is allocated only when an object is created.
