@@ -1,15 +1,18 @@
-A class is the blueprint of an object.
+Class in Java
 
-class <class-name>{
-    //member variables
+A class is a blueprint of an object.
 
-    //member functions
+class className{
+    //method variables 
+
+    //method functions
 }
 
-Important property mentioned:
+
+Important Property
 
 A class is a logical entity
 
 No memory is allocated for a class itself
 
-Memory is allocated only when objects are created.
+Memory is allocated only when an object is created.
